@@ -1,2 +1,2 @@
 FROM nginx:alpine
-COPY ./TargonWeb/ /usr/share/nginx/html
+COPY ./SimpleWeb/ /usr/share/nginx/html
